@@ -285,7 +285,7 @@ Here is a list of changes we are allowed to make that would not require a breaki
 
 Breaking changes are allowed and expected at a frequent rate, of course where it makes sense we will try to bundle multiple changes together.
 
-We of course will do our best to uphold this, but mistakes can happen, and if you notice any breaking changes please let us know!
+We will of course do our best to uphold this, but mistakes can happen, and if you notice any breaking changes please let us know!
 
 Because of the number of the limited number of champions, only the most recent major version will be maintained.
 
