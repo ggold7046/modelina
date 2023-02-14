@@ -276,9 +276,9 @@ Do you need to know how to use the library in certain scenarios?
 We have gathered all the examples in a separate folder and they can be found under the [examples folder](./examples). 
 
 ## Versioning and maintenance
-As of version 1, Modelina has a very strict set of changes we are allowed to do before it requires a major version change. In short, any changes that change the generated outcome are not allowed as it's a breaking change for the consumer of the generated models. 
+As of version 1, Modelina has a very strict set of changes we are allowed to make before it requires a major version change. In short, any changes that change the generated outcome are not allowed as it's a breaking change for the consumer of the generated models. 
 
-Here is a list of changes we are allowed to do that would not require a breaking change:
+Here is a list of changes we are allowed to make that would not require a breaking change:
 - Adding new features (that do not change existing output), such as generators, presets, input processors, etc.
 - Change existing features, by providing options that default to current behavior. This could be a preset that adapts the output based on options, as long as the API of Modelina and the API of the generated models does not have any breaking changes.
 - Bug fixes where the generated code is otherwise unusable (syntax errors, etc).
